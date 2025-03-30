@@ -4,7 +4,7 @@ const card = document.querySelector(".card");
 const text = document.querySelector(".text");
 const emoji = document.querySelector(".emoji");
 
-const apiKey = "bb3af9233565063a3ac72743ba10fcac";
+const apiKey = "the api key";
 
 weatherForm.addEventListener("submit", async event => {
     
